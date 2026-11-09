@@ -1,7 +1,7 @@
 # Lab02 – Sorting & Searching
 
 **Course:** IC-307D Data Structures and Algorithms Lab  
-**Student:** Naman Pahuja | **Roll No.:** IC2K2558
+**Student:** Nakul Goud | **Roll No.:** IC2K2557
 
 ## Programs
 1. **Bubble Sort** – repeatedly swap adjacent out-of-order elements.
