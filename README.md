@@ -1,7 +1,7 @@
 # IC-307D Data Structures and Algorithms Lab
 
-**Student:** Naman Pahuja  
-**Roll No.:** IC2K2558  
+**Student:** Nakul Goud
+**Roll No.:** IC2K2557  
 **Repository:** DS-ASSIGNMENTS
 
 
